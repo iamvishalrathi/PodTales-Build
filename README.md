@@ -1,17 +1,17 @@
 <p align="center">
-  <img src="https://github.com/iamvishalrathi/PodTales-CodeClash/blob/main/public/icons/logo.png" width="50" alt="logo">
+  <img src="https://github.com/iamvishalrathi/PodTales-Build/blob/main/public/icons/logo.png" width="50" alt="logo">
 </p>
 <p align="center">
-    <h1 align="center">PodTales-CodeClash</h1>
+    <h1 align="center">PodTales-Build</h1>
 </p>
 <p align="center">
     <em><code><a href="https://pod-tales-code-clash.vercel.app/" target="_blank" >❯ Live</a></code></em>
 </p>
 <p align="center">
-	<img src="https://img.shields.io/github/license/iamvishalrathi/PodTales-CodeClash?style=flat&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
-	<img src="https://img.shields.io/github/last-commit/iamvishalrathi/PodTales-CodeClash?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
-	<img src="https://img.shields.io/github/languages/top/iamvishalrathi/PodTales-CodeClash?style=flat&color=0080ff" alt="repo-top-language">
-	<img src="https://img.shields.io/github/languages/count/iamvishalrathi/PodTales-CodeClash?style=flat&color=0080ff" alt="repo-language-count">
+	<img src="https://img.shields.io/github/license/iamvishalrathi/PodTales-Build?style=flat&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
+	<img src="https://img.shields.io/github/last-commit/iamvishalrathi/PodTales-Build?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
+	<img src="https://img.shields.io/github/languages/top/iamvishalrathi/PodTales-Build?style=flat&color=0080ff" alt="repo-top-language">
+	<img src="https://img.shields.io/github/languages/count/iamvishalrathi/PodTales-Build?style=flat&color=0080ff" alt="repo-language-count">
 </p>
 <p align="center">
 		<em>Built with the tools and technologies:</em>
@@ -85,19 +85,19 @@ A cutting-edge AI SaaS platform that enables users to create, discover, and enjo
 
 ## 🔍 Website Preview
 
-You can explore PodTales-CodeClash live by visiting the website:
+You can explore PodTales-Build live by visiting the website:
 
-[**PodTales-CodeClash - Preview the App**](https://pod-tales-code-clash.vercel.app/)
+[**PodTales-Build - Preview the App**](https://pod-tales-code-clash.vercel.app/)
 
 ### 📸 Screenshot
-![image](https://github.com/iamvishalrathi/PodTales-CodeClash/blob/main/public/sns.png)
+![image](https://github.com/iamvishalrathi/PodTales-Build/blob/main/public/sns.png)
 
 ---
 
 ## 📂 Repository Structure
 
 ```sh
-└── PodTales-CodeClash/
+└── PodTales-Build/
     ├── README.md
     ├── app
     │   ├── (auth)
@@ -173,14 +173,14 @@ You can explore PodTales-CodeClash live by visiting the website:
 
 Build the project from source:
 
-1. Clone the PodTales-CodeClash repository:
+1. Clone the PodTales-Build repository:
 ```sh
-❯ git clone https://github.com/iamvishalrathi/PodTales-CodeClash
+❯ git clone https://github.com/iamvishalrathi/PodTales-Build
 ```
 
 2. Navigate to the project directory:
 ```sh
-❯ cd PodTales-CodeClash
+❯ cd PodTales-Build
 ```
 
 3. Install the required dependencies:
