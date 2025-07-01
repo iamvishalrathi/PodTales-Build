@@ -5,7 +5,7 @@
     <h1 align="center">PodTales-Build</h1>
 </p>
 <p align="center">
-    <em><code><a href="https://pod-tales-code-clash.vercel.app/" target="_blank" >❯ Live</a></code></em>
+    <em><code><a href="https://pod-tales-build.vercel.app/" target="_blank" >❯ Live</a></code></em>
 </p>
 <p align="center">
 	<img src="https://img.shields.io/github/license/iamvishalrathi/PodTales-Build?style=flat&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
@@ -87,7 +87,7 @@ A cutting-edge AI SaaS platform that enables users to create, discover, and enjo
 
 You can explore PodTales-Build live by visiting the website:
 
-[**PodTales-Build - Preview the App**](https://pod-tales-code-clash.vercel.app/)
+[**PodTales-Build - Preview the App**](https://pod-tales-build.vercel.app/)
 
 ### 📸 Screenshot
 ![image](https://github.com/iamvishalrathi/PodTales-Build/blob/main/public/sns.png)
