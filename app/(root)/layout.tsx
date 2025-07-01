@@ -46,7 +46,7 @@ export default function RootLayout({
                     rel="noopener noreferrer"
                     className="text-orange-1 hover:underline transition-all duration-200"
                   >
-                    Mahakal Warriors
+                    Error404
                   </a>
                 </p>
               </div>
